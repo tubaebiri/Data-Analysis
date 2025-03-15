@@ -1,3 +1,3 @@
 # Data Analysis
 
-Bu depo, öğrenme sürecimde yaptığım çeşitli data analist projelerini içermektedir.
+Bu depo, öğrenme sürecimde yaptığım çeşitli veri analizi projelerini içermektedir.
